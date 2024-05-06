@@ -19,7 +19,7 @@ Before running the backend and database, ensure you have the following software 
 
 2. **Set Up Backend (IntelliJ IDEA):**
    - Open IntelliJ IDEA.
-   - Navigate to the backend folder (`foldername-demo`).
+   - Navigate to the backend folder (`foldername-backend-Project-Tracker`).
    - Open this folder as a project in IntelliJ IDEA.
 
 3. **Database Setup:**
